@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" width="480" height="600" role="img" aria-label="Placeholder 4;O ?>@B@5B0">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F4EEE7"/>
+      <stop offset="100%" stop-color="#CFC3B8"/>
+    </linearGradient>
+    <linearGradient id="frame" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#B63831"/>
+      <stop offset="100%" stop-color="#6A2421"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="600" fill="url(#bg)"/>
+  <rect x="24" y="24" width="432" height="552" fill="none" stroke="url(#frame)" stroke-width="2"/>
+  <rect x="48" y="48" width="384" height="504" fill="#FFFDF9" opacity="0.6"/>
+  <ellipse cx="240" cy="220" rx="72" ry="88" fill="none" stroke="#CFC3B8" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <path d="M120 420 Q240 360 360 420" fill="none" stroke="#CFC3B8" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="240" y="500" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#6A2421" letter-spacing="0.08em"> " "</text>
+  <text x="240" y="524" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#1E1D1B" opacity="0.6">A:>@> 1C45B 4>102;5=</text>
+</svg>
